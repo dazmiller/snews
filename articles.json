@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Breaking News: AI Takes Over",
+      "url": "https://raw.githubusercontent.com/dazmiller/snews/main/article1.mdx",
+      "date": "2025-03-01",
+      "author": "John Doe"
+    },
+    {
+      "title": "Next.js App Router: The Future?",
+      "url": "https://raw.githubusercontent.com/dazmiller/snews/main/article2.mdx",
+      "date": "2025-03-02",
+      "author": "Jane Smith"
+    },
+    {
+      "title": "Why JavaScript Still Rules the Web",
+      "url": "https://raw.githubusercontent.com/dazmiller/snews/main/article3.mdx",
+      "date": "2025-03-03",
+      "author": "Alice Johnson"
+    }
+  ]
+  
